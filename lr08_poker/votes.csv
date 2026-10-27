@@ -23,3 +23,6 @@ S-07,1,pessimistic,3
 S-15,1,optimistic,2
 S-15,1,likely,3
 S-15,1,pessimistic,8
+S-02,2,optimistic,5
+S-02,2,likely,8
+S-02,2,pessimistic,13
