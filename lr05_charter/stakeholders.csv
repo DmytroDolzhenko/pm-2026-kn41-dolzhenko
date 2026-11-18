@@ -7,3 +7,10 @@ ST-05,Представник студентських організацій,С�
 ST-06,Адміністратор наявних академічних сервісів,ІТ-служба академії,low,high,neutral,keep_satisfied,DevOps
 ST-07,Користувачі які бронюють ресурси зрідка,Користувачі сервісу,low,low,neutral,monitor,BA
 ST-08,Представник служби інформаційної безпеки академії,Служба інформаційної безпеки академії,high,high,neutral,manage_closely,PM
+ST-09,Спонсор проєкту,Не зазначено в матеріалах курсу,high,high,neutral,manage_closely,PM
+ST-10,Керівник господарської частини,Господарська частина,high,high,neutral,manage_closely,BA
+ST-11,PM (я),Команда проєкту,high,high,neutral,manage_closely,PM
+ST-12,BA (бізнес-аналітик),Команда проєкту,high,low,neutral,keep_informed,PM
+ST-13,Dev (розробник),Команда проєкту,high,low,neutral,keep_informed,PM
+ST-14,QA (інженер з якості),Команда проєкту,high,low,neutral,keep_informed,PM
+ST-15,DevOps (інженер з інфраструктури),Команда проєкту,high,low,neutral,keep_informed,PM
