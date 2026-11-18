@@ -6,7 +6,7 @@
 | Поле | Значення |
 | --- | --- |
 | Студент і підгрупа | Долженко Дмитро, КН-41 |
-| Посилання на дошку | [<доступне без запиту доступу>](https://github.com/users/DmytroDolzhenko/projects/6) |
+| Посилання на дошку | https://github.com/users/DmytroDolzhenko/projects/6 |
 | Трекер | GitHub Projects |
 | Дати життя дошки | 2026-10-22 — 2026-11-05 |
 
