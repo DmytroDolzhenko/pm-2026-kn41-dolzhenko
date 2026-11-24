@@ -1,1 +1,6 @@
 role,fte,hours,rate,source,note
+PM,0.5,400,476,https://dou.ua/lenta/articles/salary-report-managers-winter-2026/,Медіана ІТ-менеджменту використана як співвідношення для PM
+BA,0.5,400,396,https://dou.ua/lenta/articles/salary-report-data-winter-2026/,Медіана Business Analyst — 2500 USD
+Dev,1,800,547,https://dou.ua/lenta/articles/salary-report-devs-winter-2026/,Медіана розробників — 3450 USD
+QA,0.5,400,357,https://dou.ua/lenta/articles/salary-report-qa-winter-2026/,Медіана тестувальників — 2250 USD
+DevOps,0.25,200,634,https://dou.ua/lenta/articles/salary-report-devops-winter-2026/,Медіана DevOps — 4000 USD
